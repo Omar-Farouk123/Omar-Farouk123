@@ -3,7 +3,7 @@
 I’m a 4th-year Computer Engineering student at the German University in Cairo (GUC).  
 Yes, my student ID starts with 56- — no, I’m not a robot! And yes, I actually started university in the spring semester (second semester), which is a bit different but has been a great experience.
 
-I joined university one year earlier than usual (1 semester if you’re calculating exactly my every step) after finishing my IGCSE courses by Year 11, showing my eagerness to jump into the tech world early.
+I joined university one year earlier than usual (1 semester earlier if you’re calculating exactly my every step) after finishing my IGCSE courses by Year 11, showing my eagerness to jump into the tech world early.
 
 Coding is my passion, and I thrive on solving problems. What I love most about software development is the constant stream of new challenges — every day is a chance to learn and grow.
 
