@@ -14,10 +14,9 @@ I've worked on a range of projects spanning full-stack development with AI integ
 ## Technologies & Tools I’m Familiar With:
 
 - **Programming Languages:** Java, Python, C, C++, C#, Haskell, Prolog, JavaScript, TypeScript, SQL  
-- **Frameworks & Libraries:** Angular, React, Express, Spring, TensorFlow, Pandas, NumPy, AutoKeras  
+- **Frameworks & Libraries:**Spring, Django, Angular, React, Express, Spring, TensorFlow, Pandas, NumPy, AutoKeras  
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools & Platforms:** GitHub, Jira, VS Code, Microsoft Visual Studio, IntelliJ IDEA, Cursor  
-- **Web Technologies:** HTML, CSS, JSX, TypeScript  
 
 ---
 
