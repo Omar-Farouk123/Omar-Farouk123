@@ -7,7 +7,7 @@ I joined university one year earlier than usual (1 semester earlier if you’re 
 
 Coding is my passion, and I thrive on solving problems. What I love most about software development is the constant stream of new challenges — every day is a chance to learn and grow.
 
-I’ve worked on several software projects that helped me build strong development skills. Lately, I’m diving into cloud engineering and data science to expand my knowledge and stay ahead in this fast-moving field.
+I've worked on a range of projects spanning full-stack development with AI integration, ML/CV pipelines, and data science — building real experience across both software engineering and AI. Driven, curious, and always ready for the next challenge.
 
 Driven, curious, and always ready for the next challenge.
 
